@@ -1,0 +1,27 @@
+{
+  "name": "stephane",
+  "version": "1.0.0",
+  "description": "Stephane rocks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Stephane definitely rocks\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stmoreau/stephane.git"
+  },
+  "keywords": [
+    "Stephane",
+    "Rocks",
+    "Cool",
+    "Javascript",
+    "Super"
+  ],
+  "author": "Stephane Moreau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stmoreau/stephane/issues"
+  },
+  "homepage": "https://github.com/stmoreau/stephane"
+}
